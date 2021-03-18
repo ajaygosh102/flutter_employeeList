@@ -1,0 +1,1 @@
+import 'home_data_model.dart';class GlobalData {  static HomeDataModel homeDataModel;}
